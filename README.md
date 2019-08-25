@@ -32,6 +32,8 @@ _Add some screens and a demo_
 OR
 
 2. Download flask & install its requirements. Run runner.py. 3. Build & run Android app.
+Trained model is not uploaded because of the size limitation issue. Link of the model is https://drive.google.com/open?id=1-66_ha4a7vBbjITFzIgaukUUHuF72M7G 
+Download the file and add it in the folder server/models
 
 #### Tracks used
 
