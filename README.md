@@ -23,9 +23,6 @@ officials will be always aware about their surroundings & will be kept in checke
 
 #### Screenshots/Demo Video
 
-_Add some screens and a demo_
-
-
 ![Screenshot 1](https://i.ibb.co/KW73bsR/Screenshot-from-2019-08-25-11-42-12.png)
 
 ![Screenshot 2](https://i.ibb.co/3ML5bR8/Screenshot-from-2019-08-25-11-42-16.png)
