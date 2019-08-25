@@ -25,7 +25,10 @@ officials will be always aware about their surroundings & will be kept in checke
 
 _Add some screens and a demo_
 
-![alt text](https://drive.google.com/open?id=1HJ9OmQ4QGeB4mq02_Xqg4dJskDXsQclW)
+
+![Screenshot 1](https://i.ibb.co/KW73bsR/Screenshot-from-2019-08-25-11-42-12.png)
+
+![Screenshot 2](https://i.ibb.co/3ML5bR8/Screenshot-from-2019-08-25-11-42-16.png)
 
 #### Usage
 
