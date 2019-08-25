@@ -25,6 +25,8 @@ officials will be always aware about their surroundings & will be kept in checke
 
 _Add some screens and a demo_
 
+![alt text](https://drive.google.com/open?id=1HJ9OmQ4QGeB4mq02_Xqg4dJskDXsQclW)
+
 #### Usage
 
 1. Server has been uploaded & live on digitalocean.com, you may directly download and build android app & start using it.
